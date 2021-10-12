@@ -1,5 +1,14 @@
 # Getting Started
 
+http://localhost:8080/movies
+
+http://localhost:8080/h2-console
+
+Please make sure JDBC URL is jdbc:h2:mem:testdb
+
+user sa 
+pass 
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
